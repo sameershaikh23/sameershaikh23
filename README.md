@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 # 💫 About Me:
-👋 Hello there! I'm Sameer Shaikh, a passionate beginner web developer eager to learn and grow in the world of web development.<br><br>🌱 Currently, I'm diving into the exciting world of front-end technologies like HTML, CSS, and JavaScript, while also exploring the fundamentals of version control with Git and GitHub.<br><br>💻 I'm working on honing my skills by building small projects and contributing to open-source repositories. I believe in the power of collaboration and learning from others in the developer community.<br><br>🚀 My goal is to become proficient in full-stack development, and I'm excited to embark on this journey with enthusiasm and determination.<br><br>📫 Feel free to connect with me here on GitHub or reach out via email [Your Email] - I'm always up for a chat about coding, tech, or anything else!
+👋 Hello there! I'm Sameer Shaikh, a passionate beginner web developer eager to learn and grow in the world of web development.<br><br>🌱 Currently, I'm diving into the exciting world of front-end technologies like HTML, CSS, and JavaScript, Reactjs, while also exploring the fundamentals of version control with Git and GitHub.<br><br>💻 I'm working on honing my skills by building small projects and contributing to open-source repositories. I believe in the power of collaboration and learning from others in the developer community.<br><br>🚀 My goal is to become proficient in full-stack development, and I'm excited to embark on this journey with enthusiasm and determination.<br><br>📫 Feel free to connect with me here on GitHub or reach out via email [Your Email] - I'm always up for a chat about coding, tech, or anything else!
 
 
 ## 🌐 Socials:
